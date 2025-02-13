@@ -1,10 +1,10 @@
-name = "auto-reaction-bot"
+name = "KaneLikeTym"
 main = "src/index.js"
 compatibility_date = "2024-02-08"
 
 [vars]
-BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
-BOT_USERNAME = "Auto_ReactionBOT"
+BOT_TOKEN = "8057160922:AAF87pj9z2jSxosy4iRut22zdUzCRYNP8BY"
+BOT_USERNAME = "gialong6688_bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
-RANDOM_LEVEL = "2"
-RESTRICTED_CHATS = "1234,5678"
+RANDOM_LEVEL = "1"
+RESTRICTED_CHATS = "2420297189"
